@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zMnemosyne
-- 👀 I’m interested in AWS, Azure and any other cloud technology. I'm primarily interested in learning to build secure, resilient and scalable infrastructures leveraging all of various technologies the cloud has to offer.
+- 👋 Hi, I’m Adrian
+- 👀 I’m interested in AWS, Azure and other cloud tech. I'm primarily interested in learning to build secure, resilient and scalable infrastructures leveraging all of various services the cloud has to offer.
 - 📚 ~~I’m currently studying for the AWS-SAA C02 exam~~ | PASSED! As of 04/01/2022, I've successfully passed the AWS SAA-C02 exam.
 
 
